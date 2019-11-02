@@ -17,7 +17,7 @@ img{
    border-radius: 5px;
 }
 
-nav{
+nav .navegacion{
  -webkit-border-radius:10px;/*Para chrome y Safari*/
     -moz-border-radius:10px;/*Para Firefox*/
     -o-border-radius:10px;/*Para Opera*/
