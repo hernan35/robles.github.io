@@ -13,7 +13,9 @@ body{
 header{
 	width: 100%;
 }
-
+img{
+   border-radius: 5px;
+}
 .navegacion{
 	width: 1000px;
 	margin: 30px auto;
