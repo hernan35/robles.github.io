@@ -17,12 +17,7 @@ img{
    border-radius: 5px;
 }
 
-nav .navegacion{
- -webkit-border-radius:10px;/*Para chrome y Safari*/
-    -moz-border-radius:10px;/*Para Firefox*/
-    -o-border-radius:10px;/*Para Opera*/
-    border-radius:10px;/*El estandar*/	
-}	
+
 .navegacion{
 	width: 1000px;
 	margin: 30px auto;
